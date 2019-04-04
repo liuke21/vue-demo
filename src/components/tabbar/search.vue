@@ -1,6 +1,10 @@
 <template>
     <div>
-       <h1>这是shopcar组件</h1> 
+      <mt-search
+            
+            cancel-text="取消"
+            placeholder="搜索">
+      </mt-search> 
     </div>
 </template>
 <script>
