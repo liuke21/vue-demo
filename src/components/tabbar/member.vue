@@ -3,7 +3,7 @@
        <ul class="mui-table-view mui-table-view-chevron">
 			<li class="mui-table-view-cell mui-media">
 			  <a class="mui-navigate-right" href="#account">
-				<img class="mui-media-object mui-pull-left head-img" id="head-img" src="../../img/logo.png">
+				<img class="mui-media-object mui-pull-left head-img" id="head-img" src="../../liuke.jpeg">
 				<div class="mui-media-body">
 					Hello LIUKE
 				    <p class='mui-ellipsis'>账号:hello liuke</p>
